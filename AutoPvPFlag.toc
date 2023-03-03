@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: AutoPvPFlag
+## Author: |cffbe5effLexie|r
+## Notes: Automatically /pvp
+## Version: 1
+AutoPvPFlag.lua
